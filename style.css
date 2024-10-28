@@ -1,0 +1,21 @@
+h1{
+color: #2c73d2;
+
+}
+
+#menu {
+    list-style: none;
+    font-weight: bolder;
+    color: #2c73d2;
+    position: sticky;
+    top: 0;
+    background: whitesmoke;
+}
+p{
+    color: #845ec2;
+}
+.contenedor{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,143,122,1) 35%, rgba(0,212,255,1) 100%);
+    color: white;
+font-weight: bolder;
+}
